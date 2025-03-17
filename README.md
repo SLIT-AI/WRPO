@@ -7,8 +7,8 @@ Weighted-Reward Preference Optimization for Implicit Model Fusion
 -----------------------------
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
-<img src="https://img.shields.io/github/stars/yangzy39/WRPO?color=yellow" alt="Stars">
-<img src="https://img.shields.io/github/issues/yangzy39/WRPO?color=red" alt="Issues">
+<img src="https://img.shields.io/github/stars/SLIT-AI/WRPO?color=yellow" alt="Stars">
+<img src="https://img.shields.io/github/issues/SLIT-AI/WRPO?color=red" alt="Issues">
 
 <h4> |<a href="https://arxiv.org/abs/2412.03187"> 📑 WRPO Paper</a> |
 <a href="https://huggingface.co/AALF"> 🤗 HuggingFace Repo </a> |
